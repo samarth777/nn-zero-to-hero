@@ -1,4 +1,4 @@
-# Neural Networks Zero to Hero Learning Tracker
+# Neural Networks Zero to Hero 
 
 This repository is dedicated to tracking my progress as I work through Andrej Karpathy's "Neural Networks Zero to Hero" tutorials.
 
